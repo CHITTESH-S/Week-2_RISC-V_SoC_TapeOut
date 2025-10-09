@@ -248,8 +248,7 @@ pip install pyyaml click sandpiper-saas
 - 🛠 Create output directory: `mkdir -p output/pre_synth_sim`  
 - ⚙️ Compile:  
 ```bash
-iverilog -g2012 -o output/pre_synth_sim/pre_synth_sim.out \
-  -DPRE_SYNTH_SIM -I src/include -I src/module src/module/testbench.v
+iverilog -o /home/chittesh/VLSI/VSDBabySoC/output/pre_synth_sim/pre_synth_sim.out   -DPRE_SYNTH_SIM -I /home/chittesh/VLSI/VSDBabySoC/src/include -I /home/chittesh/VLSI/VSDBabySoC/src/module /home/chittesh/VLSI/VSDBabySoC/src/module/testbench.v
 ```
 - ▶️ Run and log: `cd output/pre_synth_sim && ./pre_synth_sim.out | tee simulation_log.txt`
 ```bash
