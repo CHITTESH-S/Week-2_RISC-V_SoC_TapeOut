@@ -287,7 +287,7 @@ cd output/pre_synth_sim
 
 <div align="center">
 
-<img width="1024" height="1024" alt="analog_out" src="https://github.com/user-attachments/assets/5c02e17a-eb3c-45a4-92f9-8c59d658769f" />
+<img width="1024" height="1024" alt="pre_synth_sim_out" src="https://github.com/user-attachments/assets/e4f08201-5d52-446a-aef3-6b2a7cc6aeec" />
 
 </div>
 
