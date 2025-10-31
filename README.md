@@ -381,15 +381,29 @@ cd output/pre_synth_sim
 
 ---
 
-## References & Resources
+## 🙌 Acknowledgements  
 
-- 🔗 VSDBabySoC — https://github.com/manili/VSDBabySoC  
-- 🔗 RISC‑V Specification — https://riscv.org/  
-- 🔗 TL‑Verilog Guide — https://www.redwoodeda.com/  
-- 🔗 Icarus Verilog — http://iverilog.icarus.com/  
-- 🔗 GTKWave — http://gtkwave.sourceforge.net/
+👨‍🏫 **Kunal Ghosh** – VSD SoC Program Mentor  
+
+🧑‍🤝‍🧑 **Open-source EDA Community** – Tool contributors & maintainers  
+
+🌍 **RISC-V & Efabless Ecosystem** – Enabling open tapeout programs  
 
 ---
+
+## 🔗 References & Resources
+
+💡 I sincerely thank all the organizations and their key members for making this program possible:
+
+- 🧑‍🏫 **VLSI System Design (VSD)** – [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) for mentorship and vision.
+- 🤝 **Efabless** – [Michael Wishart](https://www.linkedin.com/in/mike-wishart-81480612/) & [Mohamed Kassem](https://www.linkedin.com/in/mkkassem/) for enabling collaborative open-source chip design.
+- 🏭 [**Semiconductor Laboratory (SCL)**](https://www.scl.gov.in/) – for PDK & foundry support.
+- 🎓 [**IIT Gandhinagar (IITGN)**](https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/?originalSubdomain=in) – for on-site training & project facilitation.
+- 🛠️ **Synopsys** – [Sassine Ghazi](https://www.linkedin.com/in/sassine-ghazi/) for providing industry-grade EDA tools under C2S program.
+
+---
+
+## 🔗 Repository Links  
 
 👉 **Week-0 Repository Link:** https://github.com/CHITTESH-S/Week-0_RISC-V_SoC_TapeOut
 
@@ -399,5 +413,6 @@ cd output/pre_synth_sim
 
 👉 **Main Repository Link:** https://github.com/CHITTESH-S/RISC-V_SoC_TapeOut_VSD
 
-👨‍💻 **Contributor:** Chittesh S
+👨‍💻 **Contributor**: [Chittesh S](https://github.com/CHITTESH-S)  
 
+---
